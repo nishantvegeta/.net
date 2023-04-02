@@ -1,0 +1,8 @@
+E:\vishan.net\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\vishan.net\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\vishan.net\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\vishan.net\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\vishan.net\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\vishan.net\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\vishan.net\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\vishan.net\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

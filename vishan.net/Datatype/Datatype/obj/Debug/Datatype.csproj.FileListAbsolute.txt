@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\obj\Debug\Datatype.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\obj\Debug\Datatype.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\obj\Debug\Datatype.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\bin\Debug\Datatype.exe.config
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\bin\Debug\Datatype.exe
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\bin\Debug\Datatype.pdb
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\obj\Debug\Datatype.exe
+C:\Users\Admin\Desktop\vishan.net\Datatype\Datatype\obj\Debug\Datatype.pdb
